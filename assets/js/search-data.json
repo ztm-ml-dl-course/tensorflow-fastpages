@@ -28,17 +28,6 @@
 
   
       ,"page1": {
-          "title": "Resources",
-          "content": "&lt;!DOCTYPE html&gt; . . Resources . Number Notebook Data/Model Exercises &amp; Extra-curriculum Slides . 00 | TensorFlow Fundamentals | | Go to exercises &amp; extra-curriculum | Go to slides | . 01 | TensorFlow Regression | | Go to exercises &amp; extra-curriculum | Go to slides | . 02 | TensorFlow Classification | | Go to exercises &amp; extra-curriculum | Go to slides | . 03 | TensorFlow Computer Vision | pizza_steak, 10_food_classes_all_data | Go to exercises &amp; extra-curriculum | Go to slides | . 04 | Transfer Learning Part 1: Feature extraction | 10_food_classes_10_percent | Go to exercises &amp; extra-curriculum | Go to slides | . 05 | Transfer Learning Part 1: Fine Tuning | 10_food_classes_10_percent, 10_food_classes_1_percent, 10_food_classes_all_data | Go to exercises &amp; extra-curriculum | Go to slides | . 06 | Transfer Learning Part 2: Fine Tuning | 101_food_classes_10_percent, custom_food_images, fine_tuned_efficientnet_model | Go to exercises &amp; extra-curriculum | Go to slides | . 07 | Milestone Project 1: 🍔👁 Food Vision, Template (your challenge) | feature_extraction_mixed_precision_efficientnet_model, fine_tuned_mixed_precision_efficientnet_model | Go to exercises &amp; extra-curriculum | Go to slides | . 08 | TensorFlow NLP Fundamentals | diaster_or_no_diaster_tweets | Go to exercises &amp; extra-curriculum | Go to slides | . 09 | Milestone Project 2: SkimLit | | Go to exercises &amp; extra-curriculum | Go to slides | . 10 | TensorFlow Time Series Fundamentals &amp; Milestone Project 3 (coming soon) | | Go to exercises &amp; extra-curriculum | Go to slides | . .",
-          "url": "https://ztm-ml-dl-course.github.io/tensorflow-fastpages/resources/",
-          "relUrl": "/resources/",
-          "date": ""
-      }
-      
-  
-
-  
-      ,"page2": {
           "title": "Extra Curriculum",
           "content": "You will find the course’s Extra Curriculum in here! .",
           "url": "https://ztm-ml-dl-course.github.io/tensorflow-fastpages/extra_curr/",
@@ -48,6 +37,17 @@
       
   
 
+  
+
+  
+      ,"page3": {
+          "title": "Resources",
+          "content": "&lt;!DOCTYPE html&gt; . . Resources . Number Notebook Data/Model Exercises &amp; Extra-curriculum Slides . 00 | TensorFlow Fundamentals | | Go to exercises &amp; extra-curriculum | Go to slides | . 01 | TensorFlow Regression | | Go to exercises &amp; extra-curriculum | Go to slides | . 02 | TensorFlow Classification | | Go to exercises &amp; extra-curriculum | Go to slides | . 03 | TensorFlow Computer Vision | pizza_steak, 10_food_classes_all_data | Go to exercises &amp; extra-curriculum | Go to slides | . 04 | Transfer Learning Part 1: Feature extraction | 10_food_classes_10_percent | Go to exercises &amp; extra-curriculum | Go to slides | . 05 | Transfer Learning Part 2: Fine Tuning | 10_food_classes_10_percent, 10_food_classes_1_percent, 10_food_classes_all_data | Go to exercises &amp; extra-curriculum | Go to slides | . 06 | Transfer Learning Part 3: Scaling up | 101_food_classes_10_percent, custom_food_images, fine_tuned_efficientnet_model | Go to exercises &amp; extra-curriculum | Go to slides | . 07 | Milestone Project 1: 🍔👁 Food Vision, Template (your challenge) | feature_extraction_mixed_precision_efficientnet_model , fine_tuned_mixed_precision_efficientnet_model | Go to exercises &amp; extra-curriculum | Go to slides | . 08 | TensorFlow NLP Fundamentals | diaster_or_no_diaster_tweets | Go to exercises &amp; extra-curriculum | Go to slides | . 09 | TensorFlow NLP Fundamentals | | Go to exercises &amp; extra-curriculum | Go to slides | . 10 | TensorFlow Time Series Fundamentals &amp; Milestone Project 3 (coming soon) | | Go to exercises &amp; extra-curriculum | Go to slides | . .",
+          "url": "https://ztm-ml-dl-course.github.io/tensorflow-fastpages/resources/",
+          "relUrl": "/resources/",
+          "date": ""
+      }
+      
   
 
   
