@@ -38,6 +38,17 @@
   
 
   
+      ,"page2": {
+          "title": "Extra Curriculum",
+          "content": "You will find the course’s Extra Curriculum in here! .",
+          "url": "https://ztm-ml-dl-course.github.io/tensorflow-fastpages/extra_curr/",
+          "relUrl": "/extra_curr/",
+          "date": ""
+      }
+      
+  
+
+  
 
   
   
@@ -59,7 +70,7 @@
   
 
   
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://ztm-ml-dl-course.github.io/tensorflow-fastpages/robots.txt",
