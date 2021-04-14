@@ -6,7 +6,8 @@
 
 https://ztm-ml-dl-course.github.io/tensorflow-fastpages/
 
-# My Blog
+# Zero to Mastery Deep Learning with TensorFlow
+
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
